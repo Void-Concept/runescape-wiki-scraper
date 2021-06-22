@@ -1,0 +1,4989 @@
+[
+    {
+        "name": "Imp Catcher",
+        "href": "/w/Imp_Catcher",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Cook's Assistant",
+        "href": "/w/Cook%27s_Assistant",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "The Knight's Sword",
+        "href": "/w/The_Knight%27s_Sword",
+        "members": false,
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Rune Mysteries",
+        "href": "/w/Rune_Mysteries",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Signature Heroes",
+        "questRequirements": []
+    },
+    {
+        "name": "Pirate's Treasure",
+        "href": "/w/Pirate%27s_Treasure",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Pirate",
+        "questRequirements": []
+    },
+    {
+        "name": "Goblin Diplomacy",
+        "href": "/w/Goblin_Diplomacy",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 5,
+        "series": "Dorgeshuun",
+        "questRequirements": []
+    },
+    {
+        "name": "The Restless Ghost",
+        "href": "/w/The_Restless_Ghost",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Vampyre Slayer",
+        "href": "/w/Vampyre_Slayer",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 3,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Shield of Arrav",
+        "href": "/w/Shield_of_Arrav",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "MahjarratArrav",
+        "questRequirements": []
+    },
+    {
+        "name": "Ernest the Chicken",
+        "href": "/w/Ernest_the_Chicken",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 4,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Dragon Slayer",
+        "href": "/w/Dragon_Slayer",
+        "members": false,
+        "difficulty": "Experienced",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "33 quest points",
+                "href": "/w/Quest_points"
+            }
+        ]
+    },
+    {
+        "name": "Lost City",
+        "href": "/w/Lost_City",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 3,
+        "series": "Fairy Tale",
+        "questRequirements": []
+    },
+    {
+        "name": "Elemental Workshop I",
+        "href": "/w/Elemental_Workshop_I",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "Elemental Workshop",
+        "questRequirements": []
+    },
+    {
+        "name": "Royal Trouble",
+        "href": "/w/Royal_Trouble",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Fremennik",
+        "questRequirements": [
+            {
+                "name": "Throne of Miscellania",
+                "href": "/w/Throne_of_Miscellania"
+            }
+        ]
+    },
+    {
+        "name": "Swan Song",
+        "href": "/w/Swan_Song",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Medium to Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "Wise Old Man",
+        "questRequirements": [
+            {
+                "name": "101 quest points",
+                "href": "/w/Quest_points"
+            },
+            {
+                "name": "Garden of Tranquillity",
+                "href": "/w/Garden_of_Tranquillity"
+            },
+            {
+                "name": "One Small Favour",
+                "href": "/w/One_Small_Favour"
+            }
+        ]
+    },
+    {
+        "name": "Recruitment Drive",
+        "href": "/w/Recruitment_Drive",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Temple Knight",
+        "questRequirements": []
+    },
+    {
+        "name": "Priest in Peril",
+        "href": "/w/Priest_in_Peril",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Myreque",
+        "questRequirements": []
+    },
+    {
+        "name": "Monkey Madness",
+        "href": "/w/Monkey_Madness",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Very Long",
+        "age": "Fifth Age",
+        "questPoints": 3,
+        "series": "GnomeMonkey",
+        "questRequirements": [
+            {
+                "name": "The Grand Tree",
+                "href": "/w/The_Grand_Tree"
+            },
+            {
+                "name": "Tree Gnome Village",
+                "href": "/w/Tree_Gnome_Village"
+            }
+        ]
+    },
+    {
+        "name": "Recipe for Disaster",
+        "href": "/w/Recipe_for_Disaster",
+        "members": true,
+        "difficulty": "Special",
+        "length": "Very, Very Long",
+        "age": "Fifth Age",
+        "questPoints": 10,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Cook's Assistant",
+                "href": "/w/Cook%27s_Assistant"
+            },
+            {
+                "name": "Goblin Diplomacy",
+                "href": "/w/Goblin_Diplomacy"
+            },
+            {
+                "name": "Fishing Contest",
+                "href": "/w/Fishing_Contest"
+            },
+            {
+                "name": "Gertrude's Cat",
+                "href": "/w/Gertrude%27s_Cat"
+            },
+            {
+                "name": "Shadow of the Storm",
+                "href": "/w/Shadow_of_the_Storm"
+            },
+            {
+                "name": "Big Chompy Bird Hunting",
+                "href": "/w/Big_Chompy_Bird_Hunting"
+            },
+            {
+                "name": "Biohazard",
+                "href": "/w/Biohazard"
+            },
+            {
+                "name": "Demon Slayer",
+                "href": "/w/Demon_Slayer"
+            },
+            {
+                "name": "Murder Mystery",
+                "href": "/w/Murder_Mystery"
+            },
+            {
+                "name": "Nature Spirit",
+                "href": "/w/Nature_Spirit"
+            },
+            {
+                "name": "Witch's House",
+                "href": "/w/Witch%27s_House"
+            },
+            {
+                "name": "Lost City",
+                "href": "/w/Lost_City"
+            },
+            {
+                "name": "Started Legends' Quest",
+                "href": "/w/Legends%27_Quest"
+            },
+            {
+                "name": "Monkey Madness",
+                "href": "/w/Monkey_Madness"
+            },
+            {
+                "name": "Desert Treasure",
+                "href": "/w/Desert_Treasure"
+            },
+            {
+                "name": "Horror from the Deep",
+                "href": "/w/Horror_from_the_Deep"
+            }
+        ]
+    },
+    {
+        "name": "Lunar Diplomacy",
+        "href": "/w/Lunar_Diplomacy",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Fremennik",
+        "questRequirements": [
+            {
+                "name": "Lost City",
+                "href": "/w/Lost_City"
+            },
+            {
+                "name": "The Fremennik Trials",
+                "href": "/w/The_Fremennik_Trials"
+            },
+            {
+                "name": "Shilo Village",
+                "href": "/w/Shilo_Village"
+            }
+        ]
+    },
+    {
+        "name": "Rum Deal",
+        "href": "/w/Rum_Deal",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Pirate",
+        "questRequirements": [
+            {
+                "name": "Priest in Peril",
+                "href": "/w/Priest_in_Peril"
+            },
+            {
+                "name": "Zogre Flesh Eaters",
+                "href": "/w/Zogre_Flesh_Eaters"
+            }
+        ]
+    },
+    {
+        "name": "Desert Treasure",
+        "href": "/w/Desert_Treasure",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Very Long",
+        "age": "Fifth Age",
+        "questPoints": 3,
+        "series": "Return of Zaros",
+        "questRequirements": [
+            {
+                "name": "The Dig Site",
+                "href": "/w/The_Dig_Site"
+            },
+            {
+                "name": "Priest in Peril",
+                "href": "/w/Priest_in_Peril"
+            },
+            {
+                "name": "Temple of Ikov",
+                "href": "/w/Temple_of_Ikov"
+            },
+            {
+                "name": "The Tourist Trap",
+                "href": "/w/The_Tourist_Trap"
+            },
+            {
+                "name": "Troll Stronghold",
+                "href": "/w/Troll_Stronghold"
+            },
+            {
+                "name": "Waterfall Quest",
+                "href": "/w/Waterfall_Quest"
+            }
+        ]
+    },
+    {
+        "name": "Heroes' Quest",
+        "href": "/w/Heroes%27_Quest",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "56 quest points",
+                "href": "/w/Quest_points"
+            },
+            {
+                "name": "Shield of Arrav",
+                "href": "/w/Shield_of_Arrav"
+            },
+            {
+                "name": "Lost City",
+                "href": "/w/Lost_City"
+            },
+            {
+                "name": "Dragon Slayer",
+                "href": "/w/Dragon_Slayer"
+            },
+            {
+                "name": "Merlin's Crystal",
+                "href": "/w/Merlin%27s_Crystal"
+            },
+            {
+                "name": "Druidic Ritual",
+                "href": "/w/Druidic_Ritual"
+            }
+        ]
+    },
+    {
+        "name": "Death to the Dorgeshuun",
+        "href": "/w/Death_to_the_Dorgeshuun",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Dorgeshuun",
+        "questRequirements": [
+            {
+                "name": "The Lost Tribe",
+                "href": "/w/The_Lost_Tribe"
+            }
+        ]
+    },
+    {
+        "name": "A Fairy Tale II - Cure a Queen",
+        "href": "/w/A_Fairy_Tale_II_-_Cure_a_Queen",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Fairy Tale",
+        "questRequirements": [
+            {
+                "name": "A Fairy Tale I - Growing Pains",
+                "href": "/w/A_Fairy_Tale_I_-_Growing_Pains"
+            }
+        ]
+    },
+    {
+        "name": "The Eyes of Glouphrie",
+        "href": "/w/The_Eyes_of_Glouphrie",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Gnome",
+        "questRequirements": [
+            {
+                "name": "The Grand Tree",
+                "href": "/w/The_Grand_Tree"
+            }
+        ]
+    },
+    {
+        "name": "Between a Rock...",
+        "href": "/w/Between_a_Rock...",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "Rise of the Red Axe",
+        "questRequirements": [
+            {
+                "name": "Dwarf Cannon",
+                "href": "/w/Dwarf_Cannon"
+            },
+            {
+                "name": "Fishing Contest",
+                "href": "/w/Fishing_Contest"
+            }
+        ]
+    },
+    {
+        "name": "Temple of Ikov",
+        "href": "/w/Temple_of_Ikov",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "MahjarratThe Rise of Lucien",
+        "questRequirements": []
+    },
+    {
+        "name": "Rag and Bone Man",
+        "href": "/w/Rag_and_Bone_Man",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium to Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "A Soul's Bane",
+        "href": "/w/A_Soul%27s_Bane",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short to Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "In Aid of the Myreque",
+        "href": "/w/In_Aid_of_the_Myreque",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Myreque",
+        "questRequirements": [
+            {
+                "name": "In Search of the Myreque",
+                "href": "/w/In_Search_of_the_Myreque"
+            }
+        ]
+    },
+    {
+        "name": "Sea Slug",
+        "href": "/w/Sea_Slug",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short to Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Sea Slug series",
+        "questRequirements": []
+    },
+    {
+        "name": "Sheep Herder",
+        "href": "/w/Sheep_Herder",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 4,
+        "series": "Elf",
+        "questRequirements": []
+    },
+    {
+        "name": "Big Chompy Bird Hunting",
+        "href": "/w/Big_Chompy_Bird_Hunting",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "The Fremennik Trials",
+        "href": "/w/The_Fremennik_Trials",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 3,
+        "series": "Fremennik",
+        "questRequirements": []
+    },
+    {
+        "name": "The Darkness of Hallowvale",
+        "href": "/w/The_Darkness_of_Hallowvale",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Very Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Myreque",
+        "questRequirements": [
+            {
+                "name": "In Aid of the Myreque",
+                "href": "/w/In_Aid_of_the_Myreque"
+            }
+        ]
+    },
+    {
+        "name": "Shades of Mort'ton",
+        "href": "/w/Shades_of_Mort%27ton",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 3,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Murder Mystery",
+        "href": "/w/Murder_Mystery",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 3,
+        "series": "Sinclair",
+        "questRequirements": []
+    },
+    {
+        "name": "Plague City",
+        "href": "/w/Plague_City",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short to Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Elf",
+        "questRequirements": []
+    },
+    {
+        "name": "Legends' Quest",
+        "href": "/w/Legends%27_Quest",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long to Very Long",
+        "age": "Fifth Age",
+        "questPoints": 4,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "107 quest points",
+                "href": "/w/Quest_points"
+            },
+            {
+                "name": "Family Crest",
+                "href": "/w/Family_Crest"
+            },
+            {
+                "name": "Heroes' Quest",
+                "href": "/w/Heroes%27_Quest"
+            },
+            {
+                "name": "Shilo Village",
+                "href": "/w/Shilo_Village"
+            },
+            {
+                "name": "Underground Pass",
+                "href": "/w/Underground_Pass"
+            },
+            {
+                "name": "Waterfall Quest",
+                "href": "/w/Waterfall_Quest"
+            }
+        ]
+    },
+    {
+        "name": "Scorpion Catcher",
+        "href": "/w/Scorpion_Catcher",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Bar Crawl (miniquest)",
+                "href": "/w/Bar_Crawl_(miniquest)"
+            }
+        ]
+    },
+    {
+        "name": "The Slug Menace",
+        "href": "/w/The_Slug_Menace",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Sea Slug seriesTemple Knight",
+        "questRequirements": [
+            {
+                "name": "Sea Slug",
+                "href": "/w/Sea_Slug"
+            },
+            {
+                "name": "Wanted!",
+                "href": "/w/Wanted!"
+            }
+        ]
+    },
+    {
+        "name": "Underground Pass",
+        "href": "/w/Underground_Pass",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long to Very Long",
+        "age": "Fifth Age",
+        "questPoints": 5,
+        "series": "Elf",
+        "questRequirements": [
+            {
+                "name": "Biohazard",
+                "href": "/w/Biohazard"
+            }
+        ]
+    },
+    {
+        "name": "Throne of Miscellania",
+        "href": "/w/Throne_of_Miscellania",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Fremennik",
+        "questRequirements": [
+            {
+                "name": "Heroes' Quest",
+                "href": "/w/Heroes%27_Quest"
+            },
+            {
+                "name": "The Fremennik Trials",
+                "href": "/w/The_Fremennik_Trials"
+            }
+        ]
+    },
+    {
+        "name": "Ghosts Ahoy",
+        "href": "/w/Ghosts_Ahoy",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Priest in Peril",
+                "href": "/w/Priest_in_Peril"
+            },
+            {
+                "name": "The Restless Ghost",
+                "href": "/w/The_Restless_Ghost"
+            }
+        ]
+    },
+    {
+        "name": "Biohazard",
+        "href": "/w/Biohazard",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 3,
+        "series": "Elf",
+        "questRequirements": [
+            {
+                "name": "Plague City",
+                "href": "/w/Plague_City"
+            }
+        ]
+    },
+    {
+        "name": "A Fairy Tale I - Growing Pains",
+        "href": "/w/A_Fairy_Tale_I_-_Growing_Pains",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Fairy Tale",
+        "questRequirements": [
+            {
+                "name": "Jungle Potion",
+                "href": "/w/Jungle_Potion"
+            },
+            {
+                "name": "Lost City",
+                "href": "/w/Lost_City"
+            },
+            {
+                "name": "Nature Spirit",
+                "href": "/w/Nature_Spirit"
+            }
+        ]
+    },
+    {
+        "name": "Regicide",
+        "href": "/w/Regicide",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long",
+        "age": "Ambiguous",
+        "questPoints": 3,
+        "series": "Elf",
+        "questRequirements": [
+            {
+                "name": "Underground Pass",
+                "href": "/w/Underground_Pass"
+            }
+        ]
+    },
+    {
+        "name": "Nature Spirit",
+        "href": "/w/Nature_Spirit",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short to Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Myreque",
+        "questRequirements": [
+            {
+                "name": "Priest in Peril",
+                "href": "/w/Priest_in_Peril"
+            },
+            {
+                "name": "The Restless Ghost",
+                "href": "/w/The_Restless_Ghost"
+            }
+        ]
+    },
+    {
+        "name": "Elemental Workshop II",
+        "href": "/w/Elemental_Workshop_II",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "Elemental Workshop",
+        "questRequirements": [
+            {
+                "name": "Elemental Workshop I",
+                "href": "/w/Elemental_Workshop_I"
+            }
+        ]
+    },
+    {
+        "name": "Horror from the Deep",
+        "href": "/w/Horror_from_the_Deep",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Fremennik",
+        "questRequirements": [
+            {
+                "name": "Bar Crawl (miniquest)",
+                "href": "/w/Bar_Crawl_(miniquest)"
+            }
+        ]
+    },
+    {
+        "name": "Holy Grail",
+        "href": "/w/Holy_Grail",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short to Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Camelot",
+        "questRequirements": [
+            {
+                "name": "Merlin's Crystal",
+                "href": "/w/Merlin%27s_Crystal"
+            }
+        ]
+    },
+    {
+        "name": "In Search of the Myreque",
+        "href": "/w/In_Search_of_the_Myreque",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Myreque",
+        "questRequirements": [
+            {
+                "name": "Nature Spirit",
+                "href": "/w/Nature_Spirit"
+            }
+        ]
+    },
+    {
+        "name": "Merlin's Crystal",
+        "href": "/w/Merlin%27s_Crystal",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 6,
+        "series": "Camelot",
+        "questRequirements": []
+    },
+    {
+        "name": "Tears of Guthix",
+        "href": "/w/Tears_of_Guthix_(quest)",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "44 quest points",
+                "href": "/w/Quest_points"
+            }
+        ]
+    },
+    {
+        "name": "One Small Favour",
+        "href": "/w/One_Small_Favour",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Rune Mysteries",
+                "href": "/w/Rune_Mysteries"
+            },
+            {
+                "name": "Shilo Village",
+                "href": "/w/Shilo_Village"
+            },
+            {
+                "name": "Druidic Ritual",
+                "href": "/w/Druidic_Ritual"
+            }
+        ]
+    },
+    {
+        "name": "Zogre Flesh Eaters",
+        "href": "/w/Zogre_Flesh_Eaters",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Big Chompy Bird Hunting",
+                "href": "/w/Big_Chompy_Bird_Hunting"
+            },
+            {
+                "name": "Jungle Potion",
+                "href": "/w/Jungle_Potion"
+            }
+        ]
+    },
+    {
+        "name": "Wanted!",
+        "href": "/w/Wanted!",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Temple Knight",
+        "questRequirements": [
+            {
+                "name": "33 quest points",
+                "href": "/w/Quest_points"
+            },
+            {
+                "name": "Recruitment Drive",
+                "href": "/w/Recruitment_Drive"
+            },
+            {
+                "name": "The Lost Tribe",
+                "href": "/w/The_Lost_Tribe"
+            },
+            {
+                "name": "Priest in Peril",
+                "href": "/w/Priest_in_Peril"
+            },
+            {
+                "name": "Enter the Abyss",
+                "href": "/w/Enter_the_Abyss"
+            }
+        ]
+    },
+    {
+        "name": "Rat Catchers",
+        "href": "/w/Rat_Catchers",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Icthlarin's Little Helper",
+                "href": "/w/Icthlarin%27s_Little_Helper"
+            }
+        ]
+    },
+    {
+        "name": "Gertrude's Cat",
+        "href": "/w/Gertrude%27s_Cat",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "My Arm's Big Adventure",
+        "href": "/w/My_Arm%27s_Big_Adventure",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium to Long",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "Troll",
+        "questRequirements": [
+            {
+                "name": "Eadgar's Ruse",
+                "href": "/w/Eadgar%27s_Ruse"
+            },
+            {
+                "name": "The Feud",
+                "href": "/w/The_Feud"
+            },
+            {
+                "name": "Jungle Potion",
+                "href": "/w/Jungle_Potion"
+            },
+            {
+                "name": "Done some work in Tai Bwo Wannai Cleanup",
+                "href": "/w/Tai_Bwo_Wannai_Cleanup"
+            }
+        ]
+    },
+    {
+        "name": "Enlightened Journey",
+        "href": "/w/Enlightened_Journey",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "21 quest points",
+                "href": "/w/Quest_points"
+            }
+        ]
+    },
+    {
+        "name": "The Feud",
+        "href": "/w/The_Feud",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Eagles' Peak",
+        "href": "/w/Eagles%27_Peak",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Jungle Potion",
+        "href": "/w/Jungle_Potion",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Observatory Quest",
+        "href": "/w/Observatory_Quest",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "The Grand Tree",
+        "href": "/w/The_Grand_Tree",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 5,
+        "series": "Gnome",
+        "questRequirements": []
+    },
+    {
+        "name": "Dwarf Cannon",
+        "href": "/w/Dwarf_Cannon",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Fishing Contest",
+        "href": "/w/Fishing_Contest",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Animal Magnetism",
+        "href": "/w/Animal_Magnetism",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Ernest the Chicken",
+                "href": "/w/Ernest_the_Chicken"
+            },
+            {
+                "name": "Priest in Peril",
+                "href": "/w/Priest_in_Peril"
+            },
+            {
+                "name": "The Restless Ghost",
+                "href": "/w/The_Restless_Ghost"
+            }
+        ]
+    },
+    {
+        "name": "Garden of Tranquillity",
+        "href": "/w/Garden_of_Tranquillity",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Creature of Fenkenstrain",
+                "href": "/w/Creature_of_Fenkenstrain"
+            }
+        ]
+    },
+    {
+        "name": "Clock Tower",
+        "href": "/w/Clock_Tower",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Cabin Fever",
+        "href": "/w/Cabin_Fever",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Pirate",
+        "questRequirements": [
+            {
+                "name": "Pirate's Treasure",
+                "href": "/w/Pirate%27s_Treasure"
+            },
+            {
+                "name": "Rum Deal",
+                "href": "/w/Rum_Deal"
+            }
+        ]
+    },
+    {
+        "name": "Creature of Fenkenstrain",
+        "href": "/w/Creature_of_Fenkenstrain",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Priest in Peril",
+                "href": "/w/Priest_in_Peril"
+            },
+            {
+                "name": "The Restless Ghost",
+                "href": "/w/The_Restless_Ghost"
+            }
+        ]
+    },
+    {
+        "name": "Devious Minds",
+        "href": "/w/Devious_Minds",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Mahjarrat",
+        "questRequirements": [
+            {
+                "name": "Troll Stronghold",
+                "href": "/w/Troll_Stronghold"
+            },
+            {
+                "name": "Wanted!",
+                "href": "/w/Wanted!"
+            },
+            {
+                "name": "What's Mine is Yours",
+                "href": "/w/What%27s_Mine_is_Yours"
+            },
+            {
+                "name": "Enter the Abyss",
+                "href": "/w/Enter_the_Abyss"
+            }
+        ]
+    },
+    {
+        "name": "Eadgar's Ruse",
+        "href": "/w/Eadgar%27s_Ruse",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "TrollDruid's Circles",
+        "questRequirements": [
+            {
+                "name": "Druidic Ritual",
+                "href": "/w/Druidic_Ritual"
+            },
+            {
+                "name": "Troll Stronghold",
+                "href": "/w/Troll_Stronghold"
+            }
+        ]
+    },
+    {
+        "name": "Troll Stronghold",
+        "href": "/w/Troll_Stronghold",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Short to Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Troll",
+        "questRequirements": [
+            {
+                "name": "Death Plateau",
+                "href": "/w/Death_Plateau"
+            }
+        ]
+    },
+    {
+        "name": "Enakhra's Lament",
+        "href": "/w/Enakhra%27s_Lament",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Mahjarrat",
+        "questRequirements": []
+    },
+    {
+        "name": "Fight Arena",
+        "href": "/w/Fight_Arena",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Mahjarrat",
+        "questRequirements": []
+    },
+    {
+        "name": "Monk's Friend",
+        "href": "/w/Monk%27s_Friend",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Haunted Mine",
+        "href": "/w/Haunted_Mine",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Priest in Peril",
+                "href": "/w/Priest_in_Peril"
+            }
+        ]
+    },
+    {
+        "name": "Forgettable Tale of a Drunken Dwarf",
+        "href": "/w/Forgettable_Tale_of_a_Drunken_Dwarf",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "Rise of the Red Axe",
+        "questRequirements": [
+            {
+                "name": "The Giant Dwarf",
+                "href": "/w/The_Giant_Dwarf"
+            },
+            {
+                "name": "Fishing Contest",
+                "href": "/w/Fishing_Contest"
+            }
+        ]
+    },
+    {
+        "name": "Contact!",
+        "href": "/w/Contact!",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Desert",
+        "questRequirements": [
+            {
+                "name": "Icthlarin's Little Helper",
+                "href": "/w/Icthlarin%27s_Little_Helper"
+            }
+        ]
+    },
+    {
+        "name": "Shadow of the Storm",
+        "href": "/w/Shadow_of_the_Storm",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Demon Slayer",
+                "href": "/w/Demon_Slayer"
+            },
+            {
+                "name": "The Golem",
+                "href": "/w/The_Golem"
+            }
+        ]
+    },
+    {
+        "name": "Witch's House",
+        "href": "/w/Witch%27s_House",
+        "members": false,
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 4,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Hazeel Cult",
+        "href": "/w/Hazeel_Cult",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Mahjarrat",
+        "questRequirements": []
+    },
+    {
+        "name": "Icthlarin's Little Helper",
+        "href": "/w/Icthlarin%27s_Little_Helper",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Desert",
+        "questRequirements": [
+            {
+                "name": "Diamond in the Rough",
+                "href": "/w/Diamond_in_the_Rough"
+            },
+            {
+                "name": "Gertrude's Cat",
+                "href": "/w/Gertrude%27s_Cat"
+            }
+        ]
+    },
+    {
+        "name": "The Giant Dwarf",
+        "href": "/w/The_Giant_Dwarf",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Rise of the Red Axe",
+        "questRequirements": []
+    },
+    {
+        "name": "The Golem",
+        "href": "/w/The_Golem",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "The Hand in the Sand",
+        "href": "/w/The_Hand_in_the_Sand",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Troll Romance",
+        "href": "/w/Troll_Romance",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Troll",
+        "questRequirements": [
+            {
+                "name": "Troll Stronghold",
+                "href": "/w/Troll_Stronghold"
+            }
+        ]
+    },
+    {
+        "name": "The Lost Tribe",
+        "href": "/w/The_Lost_Tribe",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Dorgeshuun",
+        "questRequirements": [
+            {
+                "name": "Goblin Diplomacy",
+                "href": "/w/Goblin_Diplomacy"
+            }
+        ]
+    },
+    {
+        "name": "Making History",
+        "href": "/w/Making_History",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 3,
+        "series": "Enchanted key",
+        "questRequirements": [
+            {
+                "name": "The Restless Ghost",
+                "href": "/w/The_Restless_Ghost"
+            },
+            {
+                "name": "Priest in Peril",
+                "href": "/w/Priest_in_Peril"
+            }
+        ]
+    },
+    {
+        "name": "Mountain Daughter",
+        "href": "/w/Mountain_Daughter",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Fremennik",
+        "questRequirements": []
+    },
+    {
+        "name": "Mourning's End Part I",
+        "href": "/w/Mourning%27s_End_Part_I",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long to Very Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "Elf",
+        "questRequirements": [
+            {
+                "name": "Big Chompy Bird Hunting",
+                "href": "/w/Big_Chompy_Bird_Hunting"
+            },
+            {
+                "name": "Sheep Herder",
+                "href": "/w/Sheep_Herder"
+            },
+            {
+                "name": "Roving Elves",
+                "href": "/w/Roving_Elves"
+            }
+        ]
+    },
+    {
+        "name": "Mourning's End Part II",
+        "href": "/w/Mourning%27s_End_Part_II",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Very Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "Elf",
+        "questRequirements": [
+            {
+                "name": "Mourning's End Part I",
+                "href": "/w/Mourning%27s_End_Part_I"
+            }
+        ]
+    },
+    {
+        "name": "The Tourist Trap",
+        "href": "/w/The_Tourist_Trap",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Desert",
+        "questRequirements": []
+    },
+    {
+        "name": "Roving Elves",
+        "href": "/w/Roving_Elves",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Medium to Long",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "ElfGnome",
+        "questRequirements": [
+            {
+                "name": "Waterfall Quest",
+                "href": "/w/Waterfall_Quest"
+            },
+            {
+                "name": "Regicide",
+                "href": "/w/Regicide"
+            }
+        ]
+    },
+    {
+        "name": "Tree Gnome Village",
+        "href": "/w/Tree_Gnome_Village",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Gnome",
+        "questRequirements": []
+    },
+    {
+        "name": "Cold War",
+        "href": "/w/Cold_War",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Penguin",
+        "questRequirements": []
+    },
+    {
+        "name": "Waterfall Quest",
+        "href": "/w/Waterfall_Quest",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Elf\nGnome",
+        "questRequirements": []
+    },
+    {
+        "name": "A Tail of Two Cats",
+        "href": "/w/A_Tail_of_Two_Cats",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Dragonkin",
+        "questRequirements": [
+            {
+                "name": "Icthlarin's Little Helper",
+                "href": "/w/Icthlarin%27s_Little_Helper"
+            }
+        ]
+    },
+    {
+        "name": "Spirits of the Elid",
+        "href": "/w/Spirits_of_the_Elid",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Desert",
+        "questRequirements": []
+    },
+    {
+        "name": "Shilo Village",
+        "href": "/w/Shilo_Village",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Jungle Potion",
+                "href": "/w/Jungle_Potion"
+            }
+        ]
+    },
+    {
+        "name": "Tai Bwo Wannai Trio",
+        "href": "/w/Tai_Bwo_Wannai_Trio",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Jungle Potion",
+                "href": "/w/Jungle_Potion"
+            }
+        ]
+    },
+    {
+        "name": "Tribal Totem",
+        "href": "/w/Tribal_Totem",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "The Fremennik Isles",
+        "href": "/w/The_Fremennik_Isles",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Fremennik",
+        "questRequirements": [
+            {
+                "name": "The Fremennik Trials",
+                "href": "/w/The_Fremennik_Trials"
+            }
+        ]
+    },
+    {
+        "name": "Watchtower",
+        "href": "/w/Watchtower",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Ambiguous",
+        "questPoints": 4,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Tower of Life",
+        "href": "/w/Tower_of_Life",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "The Great Brain Robbery",
+        "href": "/w/The_Great_Brain_Robbery",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Pirate",
+        "questRequirements": [
+            {
+                "name": "Creature of Fenkenstrain",
+                "href": "/w/Creature_of_Fenkenstrain"
+            },
+            {
+                "name": "Cabin Fever",
+                "href": "/w/Cabin_Fever"
+            },
+            {
+                "name": "Recipe for Disaster: Freeing Pirate Pete",
+                "href": "/w/Recipe_for_Disaster:_Freeing_Pirate_Pete"
+            }
+        ]
+    },
+    {
+        "name": "What Lies Below",
+        "href": "/w/What_Lies_Below",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short to Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Olaf's Quest",
+        "href": "/w/Olaf%27s_Quest",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short to Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "Fremennik",
+        "questRequirements": [
+            {
+                "name": "The Fremennik Trials",
+                "href": "/w/The_Fremennik_Trials"
+            }
+        ]
+    },
+    {
+        "name": "Another Slice of H.A.M.",
+        "href": "/w/Another_Slice_of_H.A.M.",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Dorgeshuun",
+        "questRequirements": [
+            {
+                "name": "Death to the Dorgeshuun",
+                "href": "/w/Death_to_the_Dorgeshuun"
+            },
+            {
+                "name": "The Dig Site",
+                "href": "/w/The_Dig_Site"
+            },
+            {
+                "name": "The Giant Dwarf",
+                "href": "/w/The_Giant_Dwarf"
+            }
+        ]
+    },
+    {
+        "name": "Dream Mentor",
+        "href": "/w/Dream_Mentor",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Short to Medium",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Fremennik",
+        "questRequirements": [
+            {
+                "name": "Eadgar's Ruse",
+                "href": "/w/Eadgar%27s_Ruse"
+            },
+            {
+                "name": "Lunar Diplomacy",
+                "href": "/w/Lunar_Diplomacy"
+            }
+        ]
+    },
+    {
+        "name": "Grim Tales",
+        "href": "/w/Grim_Tales",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Witch's House",
+                "href": "/w/Witch%27s_House"
+            }
+        ]
+    },
+    {
+        "name": "King's Ransom",
+        "href": "/w/King%27s_Ransom",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "CamelotSinclair",
+        "questRequirements": [
+            {
+                "name": "Holy Grail",
+                "href": "/w/Holy_Grail"
+            },
+            {
+                "name": "Murder Mystery",
+                "href": "/w/Murder_Mystery"
+            },
+            {
+                "name": "One Small Favour",
+                "href": "/w/One_Small_Favour"
+            }
+        ]
+    },
+    {
+        "name": "The Path of Glouphrie",
+        "href": "/w/The_Path_of_Glouphrie",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Gnome",
+        "questRequirements": [
+            {
+                "name": "Waterfall Quest",
+                "href": "/w/Waterfall_Quest"
+            },
+            {
+                "name": "The Eyes of Glouphrie",
+                "href": "/w/The_Eyes_of_Glouphrie"
+            },
+            {
+                "name": "Tree Gnome Village",
+                "href": "/w/Tree_Gnome_Village"
+            }
+        ]
+    },
+    {
+        "name": "Back to my Roots",
+        "href": "/w/Back_to_my_Roots",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "A Fairy Tale I - Growing Pains",
+                "href": "/w/A_Fairy_Tale_I_-_Growing_Pains"
+            },
+            {
+                "name": "The Hand in the Sand",
+                "href": "/w/The_Hand_in_the_Sand"
+            },
+            {
+                "name": "One Small Favour",
+                "href": "/w/One_Small_Favour"
+            },
+            {
+                "name": "Tribal Totem",
+                "href": "/w/Tribal_Totem"
+            }
+        ]
+    },
+    {
+        "name": "Land of the Goblins",
+        "href": "/w/Land_of_the_Goblins",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Dorgeshuun",
+        "questRequirements": [
+            {
+                "name": "Another Slice of H.A.M.",
+                "href": "/w/Another_Slice_of_H.A.M."
+            },
+            {
+                "name": "Fishing Contest",
+                "href": "/w/Fishing_Contest"
+            }
+        ]
+    },
+    {
+        "name": "Dealing with Scabaras",
+        "href": "/w/Dealing_with_Scabaras",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Desert",
+        "questRequirements": [
+            {
+                "name": "Contact!",
+                "href": "/w/Contact!"
+            },
+            {
+                "name": "The Feud",
+                "href": "/w/The_Feud"
+            },
+            {
+                "name": "Zogre Flesh Eaters",
+                "href": "/w/Zogre_Flesh_Eaters"
+            }
+        ]
+    },
+    {
+        "name": "As a First Resort",
+        "href": "/w/As_a_First_Resort",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Zogre Flesh Eaters",
+                "href": "/w/Zogre_Flesh_Eaters"
+            }
+        ]
+    },
+    {
+        "name": "Catapult Construction",
+        "href": "/w/Catapult_Construction",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Short to Medium",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Regicide",
+                "href": "/w/Regicide"
+            }
+        ]
+    },
+    {
+        "name": "The Dig Site",
+        "href": "/w/The_Dig_Site",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Return of Zaros",
+        "questRequirements": []
+    },
+    {
+        "name": "Kennith's Concerns",
+        "href": "/w/Kennith%27s_Concerns",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Sea Slug series",
+        "questRequirements": [
+            {
+                "name": "The Slug Menace",
+                "href": "/w/The_Slug_Menace"
+            }
+        ]
+    },
+    {
+        "name": "Legacy of Seergaze",
+        "href": "/w/Legacy_of_Seergaze",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long to Very Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Myreque",
+        "questRequirements": [
+            {
+                "name": "The Darkness of Hallowvale",
+                "href": "/w/The_Darkness_of_Hallowvale"
+            }
+        ]
+    },
+    {
+        "name": "TokTz-Ket-Dill",
+        "href": "/w/TokTz-Ket-Dill",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long to Very Long",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "TzHaar",
+        "questRequirements": []
+    },
+    {
+        "name": "Perils of Ice Mountain",
+        "href": "/w/Perils_of_Ice_Mountain",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Rocking Out",
+        "href": "/w/Rocking_Out",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long to Very Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Pirate",
+        "questRequirements": [
+            {
+                "name": "The Great Brain Robbery",
+                "href": "/w/The_Great_Brain_Robbery"
+            }
+        ]
+    },
+    {
+        "name": "Smoking Kills",
+        "href": "/w/Smoking_Kills",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Desert",
+        "questRequirements": [
+            {
+                "name": "Icthlarin's Little Helper",
+                "href": "/w/Icthlarin%27s_Little_Helper"
+            },
+            {
+                "name": "The Restless Ghost",
+                "href": "/w/The_Restless_Ghost"
+            }
+        ]
+    },
+    {
+        "name": "Spirit of Summer",
+        "href": "/w/Spirit_of_Summer",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "Summer",
+        "questRequirements": [
+            {
+                "name": "The Restless Ghost",
+                "href": "/w/The_Restless_Ghost"
+            }
+        ]
+    },
+    {
+        "name": "Meeting History",
+        "href": "/w/Meeting_History",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Enchanted key",
+        "questRequirements": [
+            {
+                "name": "Making History",
+                "href": "/w/Making_History"
+            }
+        ]
+    },
+    {
+        "name": "All Fired Up",
+        "href": "/w/All_Fired_Up",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short to Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Priest in Peril",
+                "href": "/w/Priest_in_Peril"
+            }
+        ]
+    },
+    {
+        "name": "Summer's End",
+        "href": "/w/Summer%27s_End",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium to Long",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "Summer",
+        "questRequirements": [
+            {
+                "name": "Spirit of Summer",
+                "href": "/w/Spirit_of_Summer"
+            }
+        ]
+    },
+    {
+        "name": "Defender of Varrock",
+        "href": "/w/Defender_of_Varrock",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "MahjarratArrav",
+        "questRequirements": [
+            {
+                "name": "Demon Slayer",
+                "href": "/w/Demon_Slayer"
+            },
+            {
+                "name": "Family Crest",
+                "href": "/w/Family_Crest"
+            },
+            {
+                "name": "Garden of Tranquillity",
+                "href": "/w/Garden_of_Tranquillity"
+            },
+            {
+                "name": "The Knight's Sword",
+                "href": "/w/The_Knight%27s_Sword"
+            },
+            {
+                "name": "Shield of Arrav",
+                "href": "/w/Shield_of_Arrav"
+            },
+            {
+                "name": "Temple of Ikov",
+                "href": "/w/Temple_of_Ikov"
+            },
+            {
+                "name": "What Lies Below",
+                "href": "/w/What_Lies_Below"
+            }
+        ]
+    },
+    {
+        "name": "Swept Away",
+        "href": "/w/Swept_Away",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short to Medium",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "While Guthix Sleeps",
+        "href": "/w/While_Guthix_Sleeps",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Very, Very Long",
+        "age": "Fifth Age",
+        "questPoints": 5,
+        "series": "The Rise of LucienTemple KnightDragonkin",
+        "questRequirements": [
+            {
+                "name": "Defender of Varrock",
+                "href": "/w/Defender_of_Varrock"
+            },
+            {
+                "name": "Dream Mentor",
+                "href": "/w/Dream_Mentor"
+            },
+            {
+                "name": "The Hand in the Sand",
+                "href": "/w/The_Hand_in_the_Sand"
+            },
+            {
+                "name": "King's Ransom",
+                "href": "/w/King%27s_Ransom"
+            },
+            {
+                "name": "Legends' Quest",
+                "href": "/w/Legends%27_Quest"
+            },
+            {
+                "name": "The Path of Glouphrie",
+                "href": "/w/The_Path_of_Glouphrie"
+            },
+            {
+                "name": "Tears of Guthix ",
+                "href": "/w/Tears_of_Guthix_(quest)"
+            },
+            {
+                "name": "Wanted!",
+                "href": "/w/Wanted!"
+            },
+            {
+                "name": "The Hunt for Surok",
+                "href": "/w/The_Hunt_for_Surok"
+            }
+        ]
+    },
+    {
+        "name": "Myths of the White Lands",
+        "href": "/w/Myths_of_the_White_Lands",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "In Pyre Need",
+        "href": "/w/In_Pyre_Need",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Short to Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "The Chosen Commander",
+        "href": "/w/The_Chosen_Commander",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long to Very Long",
+        "age": "Fifth Age",
+        "questPoints": 3,
+        "series": "Dorgeshuun",
+        "questRequirements": [
+            {
+                "name": "Land of the Goblins",
+                "href": "/w/Land_of_the_Goblins"
+            }
+        ]
+    },
+    {
+        "name": "Glorious Memories",
+        "href": "/w/Glorious_Memories",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Fremennik",
+        "questRequirements": [
+            {
+                "name": "Royal Trouble",
+                "href": "/w/Royal_Trouble"
+            },
+            {
+                "name": "The Fremennik Isles",
+                "href": "/w/The_Fremennik_Isles"
+            },
+            {
+                "name": "Mountain Daughter",
+                "href": "/w/Mountain_Daughter"
+            }
+        ]
+    },
+    {
+        "name": "The Tale of the Muspah",
+        "href": "/w/The_Tale_of_the_Muspah",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "MahjarratFremennik",
+        "questRequirements": []
+    },
+    {
+        "name": "Missing My Mummy",
+        "href": "/w/Missing_My_Mummy",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "MahjarratDesert",
+        "questRequirements": [
+            {
+                "name": "The Golem",
+                "href": "/w/The_Golem"
+            },
+            {
+                "name": "Icthlarin's Little Helper",
+                "href": "/w/Icthlarin%27s_Little_Helper"
+            },
+            {
+                "name": "Diamond in the Rough",
+                "href": "/w/Diamond_in_the_Rough"
+            }
+        ]
+    },
+    {
+        "name": "Hunt for Red Raktuber",
+        "href": "/w/Hunt_for_Red_Raktuber",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Penguin",
+        "questRequirements": [
+            {
+                "name": "Cold War",
+                "href": "/w/Cold_War"
+            },
+            {
+                "name": "Sea Slug",
+                "href": "/w/Sea_Slug"
+            }
+        ]
+    },
+    {
+        "name": "The Curse of Arrav",
+        "href": "/w/The_Curse_of_Arrav",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "MahjarratArrav",
+        "questRequirements": [
+            {
+                "name": "Defender of Varrock",
+                "href": "/w/Defender_of_Varrock"
+            },
+            {
+                "name": "Missing My Mummy",
+                "href": "/w/Missing_My_Mummy"
+            },
+            {
+                "name": "Shades of Mort'ton",
+                "href": "/w/Shades_of_Mort%27ton"
+            },
+            {
+                "name": "The Tale of the Muspah",
+                "href": "/w/The_Tale_of_the_Muspah"
+            },
+            {
+                "name": "Troll Romance",
+                "href": "/w/Troll_Romance"
+            },
+            {
+                "name": "Senliten fully restored",
+                "href": "/w/Senliten"
+            }
+        ]
+    },
+    {
+        "name": "Forgiveness of a Chaos Dwarf",
+        "href": "/w/Forgiveness_of_a_Chaos_Dwarf",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Medium to Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "Rise of the Red Axe",
+        "questRequirements": [
+            {
+                "name": "Forgettable Tale of a Drunken Dwarf",
+                "href": "/w/Forgettable_Tale_of_a_Drunken_Dwarf"
+            },
+            {
+                "name": "Between a Rock...",
+                "href": "/w/Between_a_Rock..."
+            }
+        ]
+    },
+    {
+        "name": "Fur 'n Seek",
+        "href": "/w/Fur_%27n_Seek",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Rag and Bone Man",
+                "href": "/w/Rag_and_Bone_Man"
+            }
+        ]
+    },
+    {
+        "name": "Within the Light",
+        "href": "/w/Within_the_Light",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "Elf",
+        "questRequirements": [
+            {
+                "name": "Mourning's End Part II",
+                "href": "/w/Mourning%27s_End_Part_II"
+            }
+        ]
+    },
+    {
+        "name": "Elemental Workshop III",
+        "href": "/w/Elemental_Workshop_III",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium to Long",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "Elemental Workshop",
+        "questRequirements": [
+            {
+                "name": "Elemental Workshop II",
+                "href": "/w/Elemental_Workshop_II"
+            }
+        ]
+    },
+    {
+        "name": "A Fairy Tale III - Battle at Ork's Rift",
+        "href": "/w/A_Fairy_Tale_III_-_Battle_at_Ork%27s_Rift",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Fairy Tale",
+        "questRequirements": [
+            {
+                "name": "A Fairy Tale II - Cure a Queen",
+                "href": "/w/A_Fairy_Tale_II_-_Cure_a_Queen"
+            }
+        ]
+    },
+    {
+        "name": "The Temple at Senntisten",
+        "href": "/w/The_Temple_at_Senntisten",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Mysteries of the MahjarratReturn of Zaros",
+        "questRequirements": [
+            {
+                "name": "Desert Treasure",
+                "href": "/w/Desert_Treasure"
+            },
+            {
+                "name": "Devious Minds",
+                "href": "/w/Devious_Minds"
+            },
+            {
+                "name": "The Curse of Arrav",
+                "href": "/w/The_Curse_of_Arrav"
+            }
+        ]
+    },
+    {
+        "name": "Blood Runs Deep",
+        "href": "/w/Blood_Runs_Deep",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Fremennik",
+        "questRequirements": [
+            {
+                "name": "Dream Mentor",
+                "href": "/w/Dream_Mentor"
+            },
+            {
+                "name": "Glorious Memories",
+                "href": "/w/Glorious_Memories"
+            },
+            {
+                "name": "Horror from the Deep",
+                "href": "/w/Horror_from_the_Deep"
+            },
+            {
+                "name": "Completed easy, medium, and hard Fremennik achievements",
+                "href": "/w/Fremennik_achievements"
+            }
+        ]
+    },
+    {
+        "name": "Nomad's Requiem",
+        "href": "/w/Nomad%27s_Requiem",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 3,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "King's Ransom",
+                "href": "/w/King%27s_Ransom"
+            },
+            {
+                "name": "Knight Waves training ground",
+                "href": "/w/Knight_Waves_training_ground"
+            },
+            {
+                "name": "Completed Soul Wars tutorial",
+                "href": "/w/Soul_Wars"
+            }
+        ]
+    },
+    {
+        "name": "Rune Mechanics",
+        "href": "/w/Rune_Mechanics",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "The Blood Pact",
+        "href": "/w/The_Blood_Pact",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "Signature Heroes",
+        "questRequirements": []
+    },
+    {
+        "name": "Buyers and Cellars",
+        "href": "/w/Buyers_and_Cellars",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short to Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "Thieves' Guild",
+        "questRequirements": []
+    },
+    {
+        "name": "Ritual of the Mahjarrat",
+        "href": "/w/Ritual_of_the_Mahjarrat",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Very, Very Long",
+        "age": "Fifth Age",
+        "questPoints": 3,
+        "series": "MahjarratRise of LucienDragonkinArravReturn of Zaros",
+        "questRequirements": [
+            {
+                "name": "Enakhra's Lament",
+                "href": "/w/Enakhra%27s_Lament"
+            },
+            {
+                "name": "A Fairy Tale III - Battle at Ork's Rift",
+                "href": "/w/A_Fairy_Tale_III_-_Battle_at_Ork%27s_Rift"
+            },
+            {
+                "name": "Fight Arena",
+                "href": "/w/Fight_Arena"
+            },
+            {
+                "name": "Hazeel Cult",
+                "href": "/w/Hazeel_Cult"
+            },
+            {
+                "name": "Rocking Out",
+                "href": "/w/Rocking_Out"
+            },
+            {
+                "name": "The Slug Menace",
+                "href": "/w/The_Slug_Menace"
+            },
+            {
+                "name": "A Tail of Two Cats",
+                "href": "/w/A_Tail_of_Two_Cats"
+            },
+            {
+                "name": "The Temple at Senntisten",
+                "href": "/w/The_Temple_at_Senntisten"
+            },
+            {
+                "name": "While Guthix Sleeps",
+                "href": "/w/While_Guthix_Sleeps"
+            }
+        ]
+    },
+    {
+        "name": "Quiet Before the Swarm",
+        "href": "/w/Quiet_Before_the_Swarm",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Void KnightsTemple Knight",
+        "questRequirements": [
+            {
+                "name": "Imp Catcher",
+                "href": "/w/Imp_Catcher"
+            },
+            {
+                "name": "Wanted!",
+                "href": "/w/Wanted!"
+            }
+        ]
+    },
+    {
+        "name": "Love Story",
+        "href": "/w/Love_Story",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Medium to Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "Wise Old Man",
+        "questRequirements": [
+            {
+                "name": "Swan Song",
+                "href": "/w/Swan_Song"
+            },
+            {
+                "name": "Recipe for Disaster: Freeing Sir Amik Varze",
+                "href": "/w/Recipe_for_Disaster:_Freeing_Sir_Amik_Varze"
+            }
+        ]
+    },
+    {
+        "name": "A Void Dance",
+        "href": "/w/A_Void_Dance",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Void Knights",
+        "questRequirements": [
+            {
+                "name": "Quiet Before the Swarm",
+                "href": "/w/Quiet_Before_the_Swarm"
+            },
+            {
+                "name": "Druidic Ritual",
+                "href": "/w/Druidic_Ritual"
+            }
+        ]
+    },
+    {
+        "name": "Gunnar's Ground",
+        "href": "/w/Gunnar%27s_Ground",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short to Medium",
+        "age": "Ambiguous",
+        "questPoints": 5,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "The Void Stares Back",
+        "href": "/w/The_Void_Stares_Back",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Void Knights",
+        "questRequirements": [
+            {
+                "name": "A Void Dance",
+                "href": "/w/A_Void_Dance"
+            }
+        ]
+    },
+    {
+        "name": "Do No Evil",
+        "href": "/w/Do_No_Evil",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Very Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "DesertMonkey",
+        "questRequirements": [
+            {
+                "name": "Animal Magnetism",
+                "href": "/w/Animal_Magnetism"
+            },
+            {
+                "name": "Dealing with Scabaras",
+                "href": "/w/Dealing_with_Scabaras"
+            },
+            {
+                "name": "Desert Treasure",
+                "href": "/w/Desert_Treasure"
+            },
+            {
+                "name": "Missing My Mummy",
+                "href": "/w/Missing_My_Mummy"
+            },
+            {
+                "name": "Recipe for Disaster: Freeing King Awowogei",
+                "href": "/w/Recipe_for_Disaster:_Freeing_King_Awowogei"
+            },
+            {
+                "name": "Shadow of the Storm",
+                "href": "/w/Shadow_of_the_Storm"
+            },
+            {
+                "name": "Smoking Kills",
+                "href": "/w/Smoking_Kills"
+            },
+            {
+                "name": "Bring Leela back to Senliten's tomb",
+                "href": "/w/Leela"
+            }
+        ]
+    },
+    {
+        "name": "King of the Dwarves",
+        "href": "/w/King_of_the_Dwarves",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Medium to Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "Rise of the Red Axe",
+        "questRequirements": [
+            {
+                "name": "Forgiveness of a Chaos Dwarf",
+                "href": "/w/Forgiveness_of_a_Chaos_Dwarf"
+            },
+            {
+                "name": "My Arm's Big Adventure",
+                "href": "/w/My_Arm%27s_Big_Adventure"
+            }
+        ]
+    },
+    {
+        "name": "The Prisoner of Glouphrie",
+        "href": "/w/The_Prisoner_of_Glouphrie",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "Gnome",
+        "questRequirements": [
+            {
+                "name": "The Path of Glouphrie",
+                "href": "/w/The_Path_of_Glouphrie"
+            },
+            {
+                "name": "Roving Elves",
+                "href": "/w/Roving_Elves"
+            }
+        ]
+    },
+    {
+        "name": "Elemental Workshop IV",
+        "href": "/w/Elemental_Workshop_IV",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "Elemental Workshop",
+        "questRequirements": [
+            {
+                "name": "Elemental Workshop III",
+                "href": "/w/Elemental_Workshop_III"
+            }
+        ]
+    },
+    {
+        "name": "A Clockwork Syringe",
+        "href": "/w/A_Clockwork_Syringe",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Pirate",
+        "questRequirements": [
+            {
+                "name": "Rocking Out",
+                "href": "/w/Rocking_Out"
+            }
+        ]
+    },
+    {
+        "name": "Family Crest",
+        "href": "/w/Family_Crest",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Deadliest Catch",
+        "href": "/w/Deadliest_Catch",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Short to Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Tower of Life",
+                "href": "/w/Tower_of_Life"
+            }
+        ]
+    },
+    {
+        "name": "Salt in the Wound",
+        "href": "/w/Salt_in_the_Wound",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "Sea Slug seriesTemple Knight",
+        "questRequirements": [
+            {
+                "name": "Kennith's Concerns",
+                "href": "/w/Kennith%27s_Concerns"
+            }
+        ]
+    },
+    {
+        "name": "The Branches of Darkmeyer",
+        "href": "/w/The_Branches_of_Darkmeyer",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Myreque",
+        "questRequirements": [
+            {
+                "name": "Legacy of Seergaze",
+                "href": "/w/Legacy_of_Seergaze"
+            },
+            {
+                "name": "Legends' Quest",
+                "href": "/w/Legends%27_Quest"
+            }
+        ]
+    },
+    {
+        "name": "Chef's Assistant",
+        "href": "/w/Chef%27s_Assistant",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short to Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Cook's Assistant",
+                "href": "/w/Cook%27s_Assistant"
+            }
+        ]
+    },
+    {
+        "name": "One Piercing Note",
+        "href": "/w/One_Piercing_Note",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Medium to Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Some Like It Cold",
+        "href": "/w/Some_Like_It_Cold",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long to Very Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Penguin",
+        "questRequirements": [
+            {
+                "name": "Hunt for Red Raktuber",
+                "href": "/w/Hunt_for_Red_Raktuber"
+            }
+        ]
+    },
+    {
+        "name": "Plague's End",
+        "href": "/w/Plague%27s_End",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Long to Very Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "Elf",
+        "questRequirements": [
+            {
+                "name": "Making History",
+                "href": "/w/Making_History"
+            },
+            {
+                "name": "Catapult Construction",
+                "href": "/w/Catapult_Construction"
+            },
+            {
+                "name": "Within the Light",
+                "href": "/w/Within_the_Light"
+            }
+        ]
+    },
+    {
+        "name": "The Firemaker's Curse",
+        "href": "/w/The_Firemaker%27s_Curse",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Very Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Return of Zaros",
+        "questRequirements": []
+    },
+    {
+        "name": "Let Them Eat Pie",
+        "href": "/w/Let_Them_Eat_Pie",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short to Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Druidic Ritual",
+        "href": "/w/Druidic_Ritual",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 4,
+        "series": "Druid's Circles",
+        "questRequirements": []
+    },
+    {
+        "name": "Wolf Whistle",
+        "href": "/w/Wolf_Whistle",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short to Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Death Plateau",
+        "href": "/w/Death_Plateau",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Troll",
+        "questRequirements": []
+    },
+    {
+        "name": "The Elder Kiln",
+        "href": "/w/The_Elder_Kiln",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "TzHaar",
+        "questRequirements": []
+    },
+    {
+        "name": "Song from the Depths",
+        "href": "/w/Song_from_the_Depths",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short to Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Carnillean Rising",
+        "href": "/w/Carnillean_Rising",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium to Long",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "Signature Heroes",
+        "questRequirements": [
+            {
+                "name": "50 quest points",
+                "href": "/w/Quest_points"
+            },
+            {
+                "name": "The Blood Pact",
+                "href": "/w/The_Blood_Pact"
+            },
+            {
+                "name": "Hazeel Cult",
+                "href": "/w/Hazeel_Cult"
+            }
+        ]
+    },
+    {
+        "name": "Stolen Hearts",
+        "href": "/w/Stolen_Hearts",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 3,
+        "series": "Desert",
+        "questRequirements": []
+    },
+    {
+        "name": "Diamond in the Rough",
+        "href": "/w/Diamond_in_the_Rough",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "DesertSignature Heroes",
+        "questRequirements": [
+            {
+                "name": "Stolen Hearts",
+                "href": "/w/Stolen_Hearts"
+            }
+        ]
+    },
+    {
+        "name": "What's Mine is Yours",
+        "href": "/w/What%27s_Mine_is_Yours",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Rune Memories",
+        "href": "/w/Rune_Memories",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Signature Heroes",
+        "questRequirements": [
+            {
+                "name": "Rune Mysteries",
+                "href": "/w/Rune_Mysteries"
+            }
+        ]
+    },
+    {
+        "name": "The Brink of Extinction",
+        "href": "/w/The_Brink_of_Extinction",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Medium to Long",
+        "age": "Ambiguous",
+        "questPoints": 3,
+        "series": "TzHaar",
+        "questRequirements": [
+            {
+                "name": "The Elder Kiln",
+                "href": "/w/The_Elder_Kiln"
+            }
+        ]
+    },
+    {
+        "name": "Demon Slayer",
+        "href": "/w/Demon_Slayer",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 3,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "The World Wakes",
+        "href": "/w/The_World_Wakes",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Long to Very Long",
+        "age": "Sixth Age",
+        "questPoints": 3,
+        "series": "God",
+        "questRequirements": [
+            {
+                "name": "Ritual of the Mahjarrat",
+                "href": "/w/Ritual_of_the_Mahjarrat"
+            },
+            {
+                "name": "The Chosen Commander",
+                "href": "/w/The_Chosen_Commander"
+            },
+            {
+                "name": "The Void Stares Back",
+                "href": "/w/The_Void_Stares_Back"
+            },
+            {
+                "name": "The Branches of Darkmeyer",
+                "href": "/w/The_Branches_of_Darkmeyer"
+            },
+            {
+                "name": "The Firemaker's Curse",
+                "href": "/w/The_Firemaker%27s_Curse"
+            }
+        ]
+    },
+    {
+        "name": "Bringing Home the Bacon",
+        "href": "/w/Bringing_Home_the_Bacon",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium to Long",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Missing, Presumed Death",
+        "href": "/w/Missing,_Presumed_Death",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Medium to Long",
+        "age": "Sixth Age",
+        "questPoints": 2,
+        "series": "MahjarratSliskeGodDragonkin",
+        "questRequirements": [
+            {
+                "name": "The World Wakes",
+                "href": "/w/The_World_Wakes"
+            },
+            {
+                "name": "Ritual of the Mahjarrat…",
+                "href": "/w/Ritual_of_the_Mahjarrat"
+            },
+            {
+                "name": "The Death of Chivalry",
+                "href": "/w/The_Death_of_Chivalry"
+            },
+            {
+                "name": "Koschei's Troubles…",
+                "href": "/w/Koschei%27s_Troubles"
+            },
+            {
+                "name": "The Chosen Commander…",
+                "href": "/w/The_Chosen_Commander"
+            }
+        ]
+    },
+    {
+        "name": "Birthright of the Dwarves",
+        "href": "/w/Birthright_of_the_Dwarves",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Very Long",
+        "age": "Ambiguous",
+        "questPoints": 2,
+        "series": "Rise of the Red Axe",
+        "questRequirements": [
+            {
+                "name": "King of the Dwarves",
+                "href": "/w/King_of_the_Dwarves"
+            }
+        ]
+    },
+    {
+        "name": "The Death of Chivalry",
+        "href": "/w/The_Death_of_Chivalry",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Long",
+        "age": "Sixth Age",
+        "questPoints": 3,
+        "series": "Signature HeroesTemple KnightGod",
+        "questRequirements": []
+    },
+    {
+        "name": "Fate of the Gods",
+        "href": "/w/Fate_of_the_Gods",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Long to Very Long",
+        "age": "Sixth Age",
+        "questPoints": 2,
+        "series": "Return of ZarosGodsElder Gods",
+        "questRequirements": [
+            {
+                "name": "Missing, Presumed Death",
+                "href": "/w/Missing,_Presumed_Death"
+            }
+        ]
+    },
+    {
+        "name": "One of a Kind",
+        "href": "/w/One_of_a_Kind",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Long to Very Long",
+        "age": "Sixth Age",
+        "questPoints": 1,
+        "series": "Dragonkin",
+        "questRequirements": [
+            {
+                "name": "A Tail of Two Cats",
+                "href": "/w/A_Tail_of_Two_Cats"
+            },
+            {
+                "name": "The World Wakes",
+                "href": "/w/The_World_Wakes"
+            },
+            {
+                "name": "King's Ransom",
+                "href": "/w/King%27s_Ransom"
+            },
+            {
+                "name": "Missing, Presumed Death",
+                "href": "/w/Missing,_Presumed_Death"
+            }
+        ]
+    },
+    {
+        "name": "A Shadow over Ashdale",
+        "href": "/w/A_Shadow_over_Ashdale",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "The Mighty Fall",
+        "href": "/w/The_Mighty_Fall",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long to Very Long",
+        "age": "Sixth Age",
+        "questPoints": 2,
+        "series": "DorgeshuunTrollGod",
+        "questRequirements": [
+            {
+                "name": "Missing, Presumed Death",
+                "href": "/w/Missing,_Presumed_Death"
+            },
+            {
+                "name": "The Chosen Commander",
+                "href": "/w/The_Chosen_Commander"
+            },
+            {
+                "name": "My Arm's Big Adventure",
+                "href": "/w/My_Arm%27s_Big_Adventure"
+            },
+            {
+                "name": "The Hunt for Surok",
+                "href": "/w/The_Hunt_for_Surok"
+            }
+        ]
+    },
+    {
+        "name": "Broken Home",
+        "href": "/w/Broken_Home",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Medium to Long",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Dishonour among Thieves",
+        "href": "/w/Dishonour_among_Thieves",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Sixth Age",
+        "questPoints": 2,
+        "series": "GodSliske",
+        "questRequirements": [
+            {
+                "name": "Hazeel Cult",
+                "href": "/w/Hazeel_Cult"
+            },
+            {
+                "name": "Missing, Presumed Death",
+                "href": "/w/Missing,_Presumed_Death"
+            }
+        ]
+    },
+    {
+        "name": "Dimension of Disaster",
+        "href": "/w/Dimension_of_Disaster",
+        "members": true,
+        "difficulty": "Special",
+        "length": "Very, Very Long",
+        "age": "Sixth Age",
+        "questPoints": 10,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "The Curse of Arrav",
+                "href": "/w/The_Curse_of_Arrav"
+            },
+            {
+                "name": "Shadow of the Storm",
+                "href": "/w/Shadow_of_the_Storm"
+            }
+        ]
+    },
+    {
+        "name": "Heart of Stone",
+        "href": "/w/Heart_of_Stone",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Long",
+        "age": "Sixth Age",
+        "questPoints": 1,
+        "series": "Elder Gods",
+        "questRequirements": [
+            {
+                "name": "Carnillean Rising",
+                "href": "/w/Carnillean_Rising"
+            },
+            {
+                "name": "Rune Memories",
+                "href": "/w/Rune_Memories"
+            }
+        ]
+    },
+    {
+        "name": "The Lord of Vampyrium",
+        "href": "/w/The_Lord_of_Vampyrium",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long to Very Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Myreque",
+        "questRequirements": [
+            {
+                "name": "The Branches of Darkmeyer",
+                "href": "/w/The_Branches_of_Darkmeyer"
+            }
+        ]
+    },
+    {
+        "name": "Hero's Welcome",
+        "href": "/w/Hero%27s_Welcome",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium to Long",
+        "age": "Sixth Age",
+        "questPoints": 2,
+        "series": "FremennikDragonkin",
+        "questRequirements": [
+            {
+                "name": "Lunar Diplomacy",
+                "href": "/w/Lunar_Diplomacy"
+            },
+            {
+                "name": "Tai Bwo Wannai Trio",
+                "href": "/w/Tai_Bwo_Wannai_Trio"
+            }
+        ]
+    },
+    {
+        "name": "The Light Within",
+        "href": "/w/The_Light_Within",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Long",
+        "age": "Sixth Age",
+        "questPoints": 2,
+        "series": "ElfGodEnchanted Key",
+        "questRequirements": [
+            {
+                "name": "Fate of the Gods",
+                "href": "/w/Fate_of_the_Gods"
+            },
+            {
+                "name": "Meeting History",
+                "href": "/w/Meeting_History"
+            },
+            {
+                "name": "Plague's End",
+                "href": "/w/Plague%27s_End"
+            },
+            {
+                "name": "The Temple at Senntisten",
+                "href": "/w/The_Temple_at_Senntisten"
+            },
+            {
+                "name": "The World Wakes",
+                "href": "/w/The_World_Wakes"
+            }
+        ]
+    },
+    {
+        "name": "Call of the Ancestors",
+        "href": "/w/Call_of_the_Ancestors",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Sixth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "River of Blood",
+        "href": "/w/River_of_Blood",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Long to Very Long",
+        "age": "Fifth Age",
+        "questPoints": 3,
+        "series": "Myreque",
+        "questRequirements": [
+            {
+                "name": "The Lord of Vampyrium",
+                "href": "/w/The_Lord_of_Vampyrium"
+            },
+            {
+                "name": "Defender of Varrock",
+                "href": "/w/Defender_of_Varrock"
+            },
+            {
+                "name": "All Fired Up",
+                "href": "/w/All_Fired_Up"
+            }
+        ]
+    },
+    {
+        "name": "Nomad's Elegy",
+        "href": "/w/Nomad%27s_Elegy",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long",
+        "age": "Sixth Age",
+        "questPoints": 1,
+        "series": "Sliske",
+        "questRequirements": [
+            {
+                "name": "Dishonour among Thieves",
+                "href": "/w/Dishonour_among_Thieves"
+            },
+            {
+                "name": "Heart of Stone",
+                "href": "/w/Heart_of_Stone"
+            },
+            {
+                "name": "The Mighty Fall",
+                "href": "/w/The_Mighty_Fall"
+            },
+            {
+                "name": "Throne of Miscellania",
+                "href": "/w/Throne_of_Miscellania"
+            },
+            {
+                "name": "Nomad's Requiem",
+                "href": "/w/Nomad%27s_Requiem"
+            },
+            {
+                "name": "The Void Stares Back",
+                "href": "/w/The_Void_Stares_Back"
+            }
+        ]
+    },
+    {
+        "name": "Kindred Spirits",
+        "href": "/w/Kindred_Spirits",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long",
+        "age": "Sixth Age",
+        "questPoints": 1,
+        "series": "Sliske",
+        "questRequirements": [
+            {
+                "name": "Missing, Presumed Death",
+                "href": "/w/Missing,_Presumed_Death"
+            }
+        ]
+    },
+    {
+        "name": "Sliske's Endgame",
+        "href": "/w/Sliske%27s_Endgame",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Very Long",
+        "age": "Sixth Age",
+        "questPoints": 3,
+        "series": "SliskeElder GodsDragonkin",
+        "questRequirements": [
+            {
+                "name": "The Death of Chivalry",
+                "href": "/w/The_Death_of_Chivalry"
+            },
+            {
+                "name": "Children of Mah",
+                "href": "/w/Children_of_Mah"
+            },
+            {
+                "name": "Hero's Welcome",
+                "href": "/w/Hero%27s_Welcome"
+            },
+            {
+                "name": "Kindred Spirits",
+                "href": "/w/Kindred_Spirits"
+            },
+            {
+                "name": "Nomad's Elegy",
+                "href": "/w/Nomad%27s_Elegy"
+            },
+            {
+                "name": "One of a Kind",
+                "href": "/w/One_of_a_Kind"
+            }
+        ]
+    },
+    {
+        "name": "Children of Mah",
+        "href": "/w/Children_of_Mah",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Medium to Long",
+        "age": "Sixth Age",
+        "questPoints": 2,
+        "series": "Sliske",
+        "questRequirements": [
+            {
+                "name": "Dishonour among Thieves",
+                "href": "/w/Dishonour_among_Thieves"
+            },
+            {
+                "name": "The Light Within",
+                "href": "/w/The_Light_Within"
+            }
+        ]
+    },
+    {
+        "name": "Gower Quest",
+        "href": "/w/Gower_Quest",
+        "members": false,
+        "difficulty": "Experienced",
+        "length": "Medium to Long",
+        "age": "Sixth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "34 quest points",
+                "href": "/w/Quest_points"
+            }
+        ]
+    },
+    {
+        "name": "Beneath Cursed Tides",
+        "href": "/w/Beneath_Cursed_Tides",
+        "members": false,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Impressing the Locals",
+        "href": "/w/Impressing_the_Locals",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 1,
+        "series": "Tales of the Arc",
+        "questRequirements": []
+    },
+    {
+        "name": "Evil Dave's Big Day Out",
+        "href": "/w/Evil_Dave%27s_Big_Day_Out",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Sixth Age",
+        "questPoints": 2,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Recipe for Disaster: Freeing Evil Dave",
+                "href": "/w/Recipe_for_Disaster:_Freeing_Evil_Dave"
+            }
+        ]
+    },
+    {
+        "name": "Back to the Freezer",
+        "href": "/w/Back_to_the_Freezer",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Medium to Long",
+        "age": "Sixth Age",
+        "questPoints": 1,
+        "series": "Penguin",
+        "questRequirements": [
+            {
+                "name": "Ernest the Chicken",
+                "href": "/w/Ernest_the_Chicken"
+            },
+            {
+                "name": "Some Like It Cold",
+                "href": "/w/Some_Like_It_Cold"
+            }
+        ]
+    },
+    {
+        "name": "Crocodile Tears",
+        "href": "/w/Crocodile_Tears",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Desert",
+        "questRequirements": [
+            {
+                "name": "Dealing with Scabaras",
+                "href": "/w/Dealing_with_Scabaras"
+            },
+            {
+                "name": "The Jack of Spades",
+                "href": "/w/The_Jack_of_Spades"
+            },
+            {
+                "name": "Missing My Mummy",
+                "href": "/w/Missing_My_Mummy"
+            },
+            {
+                "name": "Spirits of the Elid",
+                "href": "/w/Spirits_of_the_Elid"
+            },
+            {
+                "name": "Rank 3 overall Menaphos reputation",
+                "href": "/w/Menaphos_reputation"
+            },
+            {
+                "name": "Bring Leela back to Senliten's tomb",
+                "href": "/w/Leela"
+            }
+        ]
+    },
+    {
+        "name": "Our Man in the North",
+        "href": "/w/Our_Man_in_the_North",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Short to Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Desert",
+        "questRequirements": [
+            {
+                "name": "Do No Evil",
+                "href": "/w/Do_No_Evil"
+            },
+            {
+                "name": "Crocodile Tears",
+                "href": "/w/Crocodile_Tears"
+            },
+            {
+                "name": "Rank 6 overall Menaphos reputation",
+                "href": null
+            }
+        ]
+    },
+    {
+        "name": "'Phite Club",
+        "href": "/w/%27Phite_Club",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Desert",
+        "questRequirements": [
+            {
+                "name": "Our Man in the North",
+                "href": "/w/Our_Man_in_the_North"
+            },
+            {
+                "name": "Rank 9 in overall Menaphos reputation",
+                "href": null
+            }
+        ]
+    },
+    {
+        "name": "The Jack of Spades",
+        "href": "/w/The_Jack_of_Spades",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short to Medium",
+        "age": "Fifth Age",
+        "questPoints": 1,
+        "series": "Desert",
+        "questRequirements": [
+            {
+                "name": "Diamond in the Rough",
+                "href": "/w/Diamond_in_the_Rough"
+            }
+        ]
+    },
+    {
+        "name": "Pieces of Hate",
+        "href": "/w/Pieces_of_Hate",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 2,
+        "series": "Pirate",
+        "questRequirements": [
+            {
+                "name": "Gertrude's Cat",
+                "href": "/w/Gertrude%27s_Cat"
+            },
+            {
+                "name": "A Clockwork Syringe",
+                "href": "/w/A_Clockwork_Syringe"
+            }
+        ]
+    },
+    {
+        "name": "The Needle Skips",
+        "href": "/w/The_Needle_Skips",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "You Are It",
+        "href": "/w/You_Are_It",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Violet is Blue",
+        "href": "/w/Violet_is_Blue",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Curse of the Black Stone",
+        "href": "/w/Curse_of_the_Black_Stone",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long",
+        "age": "Sixth Age",
+        "questPoints": 4,
+        "series": "Pirate, Tales of the Arc, Dragonkin",
+        "questRequirements": [
+            {
+                "name": "Impressing the Locals",
+                "href": "/w/Impressing_the_Locals"
+            }
+        ]
+    },
+    {
+        "name": "Desperate Times",
+        "href": "/w/Desperate_Times",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Sixth Age",
+        "questPoints": 3,
+        "series": "Elder Gods",
+        "questRequirements": [
+            {
+                "name": "The Needle Skips",
+                "href": "/w/The_Needle_Skips"
+            },
+            {
+                "name": "You Are It",
+                "href": "/w/You_Are_It"
+            }
+        ]
+    },
+    {
+        "name": "Desperate Measures",
+        "href": "/w/Desperate_Measures",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Very Long",
+        "age": "Sixth Age",
+        "questPoints": 3,
+        "series": "Elder Gods",
+        "questRequirements": [
+            {
+                "name": "Desperate Times",
+                "href": "/w/Desperate_Times"
+            },
+            {
+                "name": "Anachronia base camp tutorial",
+                "href": "/w/Anachronia_base_camp"
+            }
+        ]
+    },
+    {
+        "name": "Once Upon a Slime",
+        "href": "/w/Once_Upon_a_Slime",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short to Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Violet is Blue Too",
+        "href": "/w/Violet_is_Blue_Too",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Violet is Blue",
+                "href": "/w/Violet_is_Blue"
+            }
+        ]
+    },
+    {
+        "name": "City of Senntisten",
+        "href": "/w/City_of_Senntisten",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Long",
+        "age": "Sixth Age",
+        "questPoints": 3,
+        "series": "Elder Gods",
+        "questRequirements": [
+            {
+                "name": "Azzanadra's Quest",
+                "href": "/w/Azzanadra%27s_Quest"
+            },
+            {
+                "name": "Battle of the Monolith (miniquest)",
+                "href": "/w/Battle_of_the_Monolith_(miniquest)"
+            }
+        ]
+    },
+    {
+        "name": "Heartstealer",
+        "href": "/w/Heartstealer",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Short to Medium",
+        "age": "Sixth Age",
+        "questPoints": 1,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Azzanadra's Quest",
+        "href": "/w/Azzanadra%27s_Quest",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Long",
+        "age": "Sixth Age",
+        "questPoints": 3,
+        "series": "Elder Gods, Temple Knight quest series",
+        "questRequirements": [
+            {
+                "name": "The Vault of Shadows (miniquest)",
+                "href": "/w/The_Vault_of_Shadows_(miniquest)"
+            }
+        ]
+    },
+    {
+        "name": "Witch's Potion",
+        "href": "/w/Witch%27s_Potion",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "age": "Ambiguous",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Sheep Shearer",
+        "href": "/w/Sheep_Shearer",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "age": "Ambiguous",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Bar Crawl (miniquest)",
+        "href": "/w/Bar_Crawl_(miniquest)",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short to Medium",
+        "age": "Ambiguous",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Lair of Tarn Razorlor",
+        "href": "/w/Lair_of_Tarn_Razorlor",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Haunted Mine",
+                "href": "/w/Haunted_Mine"
+            }
+        ]
+    },
+    {
+        "name": "Hopespear's Will",
+        "href": "/w/Hopespear%27s_Will",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Dorgeshuun",
+        "questRequirements": [
+            {
+                "name": "Land of the Goblins",
+                "href": "/w/Land_of_the_Goblins"
+            },
+            {
+                "name": "A Fairy Tale I - Growing Pains",
+                "href": "/w/A_Fairy_Tale_I_-_Growing_Pains"
+            },
+            {
+                "name": "Started A Fairy Tale II - Cure a Queen",
+                "href": "/w/A_Fairy_Tale_II_-_Cure_a_Queen"
+            },
+            {
+                "name": "Started Desert Treasure",
+                "href": "/w/Desert_Treasure"
+            }
+        ]
+    },
+    {
+        "name": "Enter the Abyss",
+        "href": "/w/Enter_the_Abyss",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Rune Mysteries",
+                "href": "/w/Rune_Mysteries"
+            }
+        ]
+    },
+    {
+        "name": "The Curse of Zaros",
+        "href": "/w/The_Curse_of_Zaros",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium to Long",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Mahjarrat",
+        "questRequirements": [
+            {
+                "name": "Started Desert Treasure",
+                "href": "/w/Desert_Treasure"
+            },
+            {
+                "name": "Started The Restless Ghost",
+                "href": "/w/The_Restless_Ghost"
+            }
+        ]
+    },
+    {
+        "name": "The Hunt for Surok",
+        "href": "/w/The_Hunt_for_Surok",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Short to Medium",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "What Lies Below",
+                "href": "/w/What_Lies_Below"
+            }
+        ]
+    },
+    {
+        "name": "Purple Cat (miniquest)",
+        "href": "/w/Purple_Cat_(miniquest)",
+        "members": false,
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "age": "Ambiguous",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Swept Away",
+                "href": "/w/Swept_Away"
+            },
+            {
+                "name": "Gertrude's Cat",
+                "href": "/w/Gertrude%27s_Cat"
+            }
+        ]
+    },
+    {
+        "name": "One Foot in the Grave",
+        "href": "/w/One_Foot_in_the_Grave",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Short to Medium",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Started Back to my Roots",
+                "href": "/w/Back_to_my_Roots"
+            }
+        ]
+    },
+    {
+        "name": "The General's Shadow",
+        "href": "/w/The_General%27s_Shadow",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Mahjarrat",
+        "questRequirements": [
+            {
+                "name": "The Curse of Zaros",
+                "href": "/w/The_Curse_of_Zaros"
+            },
+            {
+                "name": "Fight Arena",
+                "href": "/w/Fight_Arena"
+            }
+        ]
+    },
+    {
+        "name": "Desert Slayer Dungeon",
+        "href": "/w/Desert_Slayer_Dungeon",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short to Medium",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Desert",
+        "questRequirements": [
+            {
+                "name": "Smoking Kills",
+                "href": "/w/Smoking_Kills"
+            }
+        ]
+    },
+    {
+        "name": "From Tiny Acorns",
+        "href": "/w/From_Tiny_Acorns",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Ambiguous",
+        "questPoints": 0,
+        "series": "Thieves' Guild",
+        "questRequirements": [
+            {
+                "name": "Buyers and Cellars",
+                "href": "/w/Buyers_and_Cellars"
+            }
+        ]
+    },
+    {
+        "name": "Lost Her Marbles",
+        "href": "/w/Lost_Her_Marbles",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 0,
+        "series": "Thieves' Guild",
+        "questRequirements": [
+            {
+                "name": "From Tiny Acorns",
+                "href": "/w/From_Tiny_Acorns"
+            }
+        ]
+    },
+    {
+        "name": "A Guild of Our Own",
+        "href": "/w/A_Guild_of_Our_Own",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Short to Medium",
+        "age": "Ambiguous",
+        "questPoints": 0,
+        "series": "Thieves' Guild",
+        "questRequirements": [
+            {
+                "name": "Started The Feud",
+                "href": "/w/The_Feud"
+            },
+            {
+                "name": "Lost Her Marbles",
+                "href": "/w/Lost_Her_Marbles"
+            }
+        ]
+    },
+    {
+        "name": "Three's Company",
+        "href": "/w/Three%27s_Company",
+        "members": false,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Fremennik Sagas",
+        "questRequirements": []
+    },
+    {
+        "name": "Thok It To 'Em",
+        "href": "/w/Thok_It_To_%27Em",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Fremennik Sagas",
+        "questRequirements": []
+    },
+    {
+        "name": "Vengeance",
+        "href": "/w/Vengeance_(Fremennik_Saga)",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Fremennik Sagas",
+        "questRequirements": []
+    },
+    {
+        "name": "Thok Your Block Off",
+        "href": "/w/Thok_Your_Block_Off",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Fremennik Sagas",
+        "questRequirements": [
+            {
+                "name": "Thok It To 'Em",
+                "href": "/w/Thok_It_To_%27Em"
+            }
+        ]
+    },
+    {
+        "name": "Nadir",
+        "href": "/w/Nadir",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Fremennik Sagas",
+        "questRequirements": [
+            {
+                "name": "Ritual of the Mahjarrat",
+                "href": "/w/Ritual_of_the_Mahjarrat"
+            }
+        ]
+    },
+    {
+        "name": "Koschei&#39;s Troubles",
+        "href": "/w/Koschei%27s_Troubles",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Mahjarrat",
+        "questRequirements": [
+            {
+                "name": "Blood Runs Deep",
+                "href": "/w/Blood_Runs_Deep"
+            },
+            {
+                "name": "Ritual of the Mahjarrat",
+                "href": "/w/Ritual_of_the_Mahjarrat"
+            }
+        ]
+    },
+    {
+        "name": "Mahjarrat Memories",
+        "href": "/w/Mahjarrat_Memories",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Very, Very Long",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "Mahjarrat",
+        "questRequirements": [
+            {
+                "name": "Koschei's Troubles",
+                "href": "/w/Koschei%27s_Troubles"
+            },
+            {
+                "name": "Missing, Presumed Death",
+                "href": "/w/Missing,_Presumed_Death"
+            }
+        ]
+    },
+    {
+        "name": "Tales of the God Wars",
+        "href": "/w/Tales_of_the_God_Wars",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Started Troll Stronghold",
+                "href": "/w/Troll_Stronghold"
+            }
+        ]
+    },
+    {
+        "name": "In Memory of the Myreque",
+        "href": "/w/In_Memory_of_the_Myreque",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Long",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Myreque",
+        "questRequirements": [
+            {
+                "name": "The Lord of Vampyrium",
+                "href": "/w/The_Lord_of_Vampyrium"
+            },
+            {
+                "name": "Ability to enter Morytania",
+                "href": null
+            }
+        ]
+    },
+    {
+        "name": "The Lost Toys",
+        "href": "/w/The_Lost_Toys",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Myreque",
+        "questRequirements": [
+            {
+                "name": "The Lord of Vampyrium",
+                "href": "/w/The_Lord_of_Vampyrium"
+            }
+        ]
+    },
+    {
+        "name": "Benedict's World Tour",
+        "href": "/w/Benedict%27s_World_Tour",
+        "members": false,
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Head of the Family",
+        "href": "/w/Head_of_the_Family",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Medium",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "Tales of the Arc",
+        "questRequirements": [
+            {
+                "name": "Impressing the Locals",
+                "href": "/w/Impressing_the_Locals"
+            }
+        ]
+    },
+    {
+        "name": "Spiritual Enlightenment",
+        "href": "/w/Spiritual_Enlightenment",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Medium",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "Tales of the Arc",
+        "questRequirements": [
+            {
+                "name": "Impressing the Locals",
+                "href": "/w/Impressing_the_Locals"
+            },
+            {
+                "name": "Completed the Meet the Assassin voyage in player-owned port",
+                "href": "/w/Meet_the_Assassin"
+            }
+        ]
+    },
+    {
+        "name": "Flag Fall",
+        "href": "/w/Flag_Fall",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Short to Medium",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "Tales of the Arc",
+        "questRequirements": [
+            {
+                "name": "Impressing the Locals",
+                "href": "/w/Impressing_the_Locals"
+            }
+        ]
+    },
+    {
+        "name": "Jed Hunter",
+        "href": "/w/Jed_Hunter",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "Tales of the Arc",
+        "questRequirements": [
+            {
+                "name": "Flag Fall",
+                "href": "/w/Flag_Fall"
+            },
+            {
+                "name": "Spiritual Enlightenment",
+                "href": "/w/Spiritual_Enlightenment"
+            },
+            {
+                "name": "Head of the Family",
+                "href": "/w/Head_of_the_Family"
+            }
+        ]
+    },
+    {
+        "name": "Tales of Nomad",
+        "href": "/w/Tales_of_Nomad",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Nomad's Elegy",
+                "href": "/w/Nomad%27s_Elegy"
+            }
+        ]
+    },
+    {
+        "name": "Eye for an Eye",
+        "href": "/w/Eye_for_an_Eye",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "Tales of the Arc",
+        "questRequirements": [
+            {
+                "name": "Jed Hunter",
+                "href": "/w/Jed_Hunter"
+            }
+        ]
+    },
+    {
+        "name": "Harbinger",
+        "href": "/w/Harbinger",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "Tales of the Arc",
+        "questRequirements": [
+            {
+                "name": "Eye for an Eye",
+                "href": "/w/Eye_for_an_Eye"
+            }
+        ]
+    },
+    {
+        "name": "Tuai Leit's Own",
+        "href": "/w/Tuai_Leit%27s_Own",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Short to Medium",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "Tales of the Arc",
+        "questRequirements": [
+            {
+                "name": "Harbinger",
+                "href": "/w/Harbinger"
+            }
+        ]
+    },
+    {
+        "name": "Ghosts from the Past",
+        "href": "/w/Ghosts_from_the_Past",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "Tales of the Arc",
+        "questRequirements": [
+            {
+                "name": "Harbinger",
+                "href": "/w/Harbinger"
+            }
+        ]
+    },
+    {
+        "name": "Damage Control",
+        "href": "/w/Damage_Control",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "Tales of the Arc",
+        "questRequirements": [
+            {
+                "name": "Harbinger",
+                "href": "/w/Harbinger"
+            }
+        ]
+    },
+    {
+        "name": "Final Destination",
+        "href": "/w/Final_Destination",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "Tales of the Arc",
+        "questRequirements": [
+            {
+                "name": "Tuai Leit's Own",
+                "href": "/w/Tuai_Leit%27s_Own"
+            },
+            {
+                "name": "Ghosts from the Past",
+                "href": "/w/Ghosts_from_the_Past"
+            },
+            {
+                "name": "Damage Control",
+                "href": "/w/Damage_Control"
+            }
+        ]
+    },
+    {
+        "name": "Rebuilding Edgeville",
+        "href": "/w/Rebuilding_Edgeville",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "Mahjarrat",
+        "questRequirements": [
+            {
+                "name": "Ritual of the Mahjarrat",
+                "href": "/w/Ritual_of_the_Mahjarrat"
+            }
+        ]
+    },
+    {
+        "name": "Wandering Ga'al",
+        "href": "/w/Wandering_Ga%27al",
+        "members": true,
+        "difficulty": "Grandmaster",
+        "length": "Very Short",
+        "age": "Ambiguous",
+        "questPoints": 0,
+        "series": "TzHaar",
+        "questRequirements": [
+            {
+                "name": "The Brink of Extinction",
+                "href": "/w/The_Brink_of_Extinction"
+            },
+            {
+                "name": "Started Desert Treasure",
+                "href": "/w/Desert_Treasure"
+            }
+        ]
+    },
+    {
+        "name": "Doric's Task I",
+        "href": "/w/Doric%27s_Task_I",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Doric and Boric tasks",
+        "questRequirements": [
+            {
+                "name": "What's Mine is Yours",
+                "href": "/w/What%27s_Mine_is_Yours"
+            }
+        ]
+    },
+    {
+        "name": "Doric's Task II",
+        "href": "/w/Doric%27s_Task_II",
+        "members": false,
+        "difficulty": "Novice",
+        "length": "Very Short",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Doric and Boric tasks",
+        "questRequirements": [
+            {
+                "name": "Doric's Task I",
+                "href": "/w/Doric%27s_Task_I"
+            },
+            {
+                "name": "Death Plateau",
+                "href": "/w/Death_Plateau"
+            }
+        ]
+    },
+    {
+        "name": "Doric's Task III",
+        "href": "/w/Doric%27s_Task_III",
+        "members": false,
+        "difficulty": "Intermediate",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Doric and Boric tasks",
+        "questRequirements": [
+            {
+                "name": "Doric's Task II",
+                "href": "/w/Doric%27s_Task_II"
+            }
+        ]
+    },
+    {
+        "name": "Doric's Task IV",
+        "href": "/w/Doric%27s_Task_IV",
+        "members": false,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Doric and Boric tasks",
+        "questRequirements": [
+            {
+                "name": "Doric's Task III",
+                "href": "/w/Doric%27s_Task_III"
+            }
+        ]
+    },
+    {
+        "name": "Doric's Task V",
+        "href": "/w/Doric%27s_Task_V",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Doric and Boric tasks",
+        "questRequirements": [
+            {
+                "name": "Doric's Task IV",
+                "href": "/w/Doric%27s_Task_IV"
+            }
+        ]
+    },
+    {
+        "name": "Doric's Task VI",
+        "href": "/w/Doric%27s_Task_VI",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Doric and Boric tasks",
+        "questRequirements": [
+            {
+                "name": "Doric's Task V",
+                "href": "/w/Doric%27s_Task_V"
+            }
+        ]
+    },
+    {
+        "name": "Doric's Task VII",
+        "href": "/w/Doric%27s_Task_VII",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Doric and Boric tasks",
+        "questRequirements": [
+            {
+                "name": "Doric's Task VI",
+                "href": "/w/Doric%27s_Task_VI"
+            }
+        ]
+    },
+    {
+        "name": "Doric's Task VIII",
+        "href": "/w/Doric%27s_Task_VIII",
+        "members": true,
+        "difficulty": "Master",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Doric and Boric tasks",
+        "questRequirements": [
+            {
+                "name": "Doric's Task VII",
+                "href": "/w/Doric%27s_Task_VII"
+            }
+        ]
+    },
+    {
+        "name": "Boric's Task I",
+        "href": "/w/Boric%27s_Task_I",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Very Short",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Doric and Boric tasks",
+        "questRequirements": [
+            {
+                "name": "What's Mine is Yours",
+                "href": "/w/What%27s_Mine_is_Yours"
+            }
+        ]
+    },
+    {
+        "name": "Boric's Task II",
+        "href": "/w/Boric%27s_Task_II",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Very Short",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Doric and Boric tasks",
+        "questRequirements": [
+            {
+                "name": "Boric's Task I",
+                "href": "/w/Boric%27s_Task_I"
+            }
+        ]
+    },
+    {
+        "name": "Boric's Task III",
+        "href": "/w/Boric%27s_Task_III",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Short",
+        "age": "Fifth Age",
+        "questPoints": 0,
+        "series": "Doric and Boric tasks",
+        "questRequirements": [
+            {
+                "name": "Boric's Task II",
+                "href": "/w/Boric%27s_Task_II"
+            }
+        ]
+    },
+    {
+        "name": "Helping Laniakea",
+        "href": "/w/Helping_Laniakea",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Father and Son",
+        "href": "/w/Father_and_Son",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Sins of the Father",
+        "href": "/w/Sins_of_the_Father",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Desperate Measures",
+                "href": "/w/Desperate_Measures"
+            }
+        ]
+    },
+    {
+        "name": "Raksha, the Shadow Colossus",
+        "href": "/w/Raksha,_the_Shadow_Colossus_(miniquest)",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": []
+    },
+    {
+        "name": "Foreshadowing",
+        "href": "/w/Foreshadowing",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "Once Upon a Time",
+        "questRequirements": [
+            {
+                "name": "Demon Slayer",
+                "href": "/w/Demon_Slayer"
+            },
+            {
+                "name": "Dragon Slayer",
+                "href": "/w/Dragon_Slayer"
+            },
+            {
+                "name": "Vampyre Slayer",
+                "href": "/w/Vampyre_Slayer"
+            }
+        ]
+    },
+    {
+        "name": "The Vault of Shadows (miniquest)",
+        "href": "/w/The_Vault_of_Shadows_(miniquest)",
+        "members": true,
+        "difficulty": "Experienced",
+        "length": "Medium",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Started Desert Treasure",
+                "href": "/w/Desert_Treasure"
+            }
+        ]
+    },
+    {
+        "name": "Tortle Combat",
+        "href": "/w/Tortle_Combat",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Medium",
+        "age": "Ambiguous",
+        "questPoints": 0,
+        "series": "N/A",
+        "questRequirements": [
+            {
+                "name": "Completed the player-owned farm tutorial",
+                "href": "/w/Player-owned_farm"
+            }
+        ]
+    },
+    {
+        "name": "Flashback",
+        "href": "/w/Flashback",
+        "members": true,
+        "difficulty": "Novice",
+        "length": "Short",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "Once Upon a Time",
+        "questRequirements": [
+            {
+                "name": "Foreshadowing",
+                "href": "/w/Foreshadowing"
+            }
+        ]
+    },
+    {
+        "name": "Battle of the Monolith (miniquest)",
+        "href": "/w/Battle_of_the_Monolith_(miniquest)",
+        "members": true,
+        "difficulty": "Intermediate",
+        "length": "Medium",
+        "age": "Sixth Age",
+        "questPoints": 0,
+        "series": "Elder Gods",
+        "questRequirements": [
+            {
+                "name": "Completion of Archaeology tutorial",
+                "href": "/w/Archaeology_tutorial"
+            }
+        ]
+    }
+]

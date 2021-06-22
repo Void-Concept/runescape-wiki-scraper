@@ -74,9 +74,17 @@ type Quest = {
     series: string
 }
 
-const scrapeQuestList = (document: HTMLElement): Quest[] => {
+type GetCellFn = (cell: HTMLElement[]) => HTMLElement[]
+
+const getQuestListCells: GetCellFn = (cells) => cells
+const getMiniQuestListCells: GetCellFn = (cells) => {
+    const [nameCell, _, membersCell, difficultCell, lengthCell, ageCell, seriesCell] = cells
+    return [nameCell, membersCell, difficultCell, lengthCell, ageCell, null, seriesCell]
+}
+
+const scrapeQuestListImpl = (getCells: GetCellFn) => (document: HTMLElement): Quest[] => {
     const getText = (cell: HTMLElement): string => {
-        return cell.innerText.replace("\n", '')
+        return cell.innerText.replace("\n", '').trim()
     }
 
     const tableBody = document.querySelector("table.wikitable.sortable tbody")
@@ -85,7 +93,7 @@ const scrapeQuestList = (document: HTMLElement): Quest[] => {
     const quests = rows.map(row => {
         const cells = row.querySelectorAll("td")
 
-        const [nameCell, membersCell, difficultCell, lengthCell, ageCell, questPointsCell, seriesCell] = cells
+        const [nameCell, membersCell, difficultCell, lengthCell, ageCell, questPointsCell, seriesCell] = getCells(cells)
 
         return {
             name: getText(nameCell),
@@ -94,12 +102,14 @@ const scrapeQuestList = (document: HTMLElement): Quest[] => {
             difficulty: getText(difficultCell) as QuestDifficulty,
             length: getText(lengthCell),
             age: getText(ageCell) as QuestAge,
-            questPoints: parseInt(getText(questPointsCell)),
+            questPoints: questPointsCell ? parseInt(getText(questPointsCell)) : 0,
             series: getText(seriesCell)
         }
     })
     return quests
 }
+const scrapeQuestList = scrapeQuestListImpl(getQuestListCells)
+const scrapeMiniQuestList = scrapeQuestListImpl(getMiniQuestListCells)
 
 type QuestListWithReqs = Quest & {
     questRequirements: ChildQuestList
@@ -114,7 +124,7 @@ const fetchAllQuests = async (): Promise<Quest[]> => {
 const fetchAllMiniQuests = async (): Promise<Quest[]> => {
     const document = await fetchDocument("https://runescape.wiki/w/Miniquests")
 
-    return scrapeQuestList(document)
+    return scrapeMiniQuestList(document)
 }
 
 const run = async () => {

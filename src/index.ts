@@ -13,13 +13,13 @@ const isLiHtmlElement = (child: Node): child is HTMLElement => {
     return isHtmlElement(child) && child.rawTagName === "li"
 }
 
-type Quest = {
-    questName: string
-    href: string
+type ChildQuest = {
+    name: string
+    href: string | null
 }
-type QuestList = Quest[]
+type ChildQuestList = ChildQuest[]
 
-const scrapeQuestRequirements = (document: HTMLElement): QuestList => {
+const scrapeQuestRequirements = (document: HTMLElement): ChildQuestList => {
     const questReq = document.querySelector(".questreq")
     if (!questReq) return []
 
@@ -37,16 +37,10 @@ const scrapeQuestRequirements = (document: HTMLElement): QuestList => {
 
         const link = child.querySelector("a")
         return {
-            questName: child.innerText,
-            href: link.getAttribute("href")
+            name: child.innerText,
+            href: link && link.getAttribute("href")
         }
     })
-}
-
-type FetchedQuest = {
-    questName: string,
-    href: string,
-    questRequirements: QuestList
 }
 
 const fetchDocument = async (url: string): Promise<HTMLElement> => {
@@ -55,7 +49,7 @@ const fetchDocument = async (url: string): Promise<HTMLElement> => {
     return await parse(htmlText)
 }
 
-const fetchQuest = async (quest: Quest): Promise<FetchedQuest> => {
+const fetchQuestRequirements = async (quest: Quest): Promise<QuestListWithReqs> => {
     const document = await fetchDocument(`https://runescape.wiki${quest.href}`)
 
     const questRequirements = scrapeQuestRequirements(document)
@@ -69,7 +63,7 @@ type QuestDifficulty = 'Novice' | 'Intermediate' | 'Experienced' | 'Master' | 'G
 
 type QuestAge = 'Fifth Age' | 'Sixth Age' | 'Ambiguous'
 
-type QuestListQuest = {
+type Quest = {
     name: string
     href: string
     members: boolean
@@ -80,7 +74,7 @@ type QuestListQuest = {
     series: string
 }
 
-const scrapeQuestList = (document: HTMLElement): QuestListQuest[] => {
+const scrapeQuestList = (document: HTMLElement): Quest[] => {
     const getText = (cell: HTMLElement): string => {
         return cell.innerText.replace("\n", '')
     }
@@ -107,22 +101,34 @@ const scrapeQuestList = (document: HTMLElement): QuestListQuest[] => {
     return quests
 }
 
-const fetchAllQuests = async () => {
+type QuestListWithReqs = Quest & {
+    questRequirements: ChildQuestList
+}
+
+const fetchAllQuests = async (): Promise<Quest[]> => {
     const document = await fetchDocument("https://runescape.wiki/w/List_of_quests")
 
     return scrapeQuestList(document)
 }
 
+const fetchAllMiniQuests = async (): Promise<Quest[]> => {
+    const document = await fetchDocument("https://runescape.wiki/w/Miniquests")
+
+    return scrapeQuestList(document)
+}
+
 const run = async () => {
-    // const fetchedQuest = await fetchQuest({
-    //     questName: "Legend's Quest",
-    //     href: "/w/Legends%27_Quest"
-    // })
-
-    // console.log(JSON.stringify(fetchedQuest))
-
     const quests = await fetchAllQuests()
-    console.log(quests)
+    const miniQuests = await fetchAllMiniQuests()
+
+    const questsWithReqsPromises = quests.concat(miniQuests).map(async quest => {
+        return await fetchQuestRequirements(quest)
+    })
+
+    const questsWithReqs = await Promise.all(questsWithReqsPromises)
+
+
+    console.log(JSON.stringify(questsWithReqs))
 }
 
 
